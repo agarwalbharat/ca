@@ -1,0 +1,190 @@
+textarea.error {
+    border: 1px solid #ff0000!important;
+}
+input.error {
+    border: 1px solid #ff0000!important;
+}
+input.error::-webkit-input-placeholder {
+    color: #E93C4F !important;
+}
+textarea.error::-webkit-input-placeholder {
+    color: #E93C4F !important;
+}
+input.error:-moz-placeholder {
+    color: #E93C4F !important;
+}
+textarea.error:-moz-placeholder {
+    color: #E93C4F !important;
+}
+input.valid {
+    border: 1px solid #ff0000!important;
+}
+textarea.valid {
+    border: 1px solid #ff0000!important;
+}
+
+input.valid::-webkit-input-placeholder {
+    color: #84A507 !important;
+}
+input.valid:-moz-placeholder {
+    color: #84A507 !important;
+}
+input.valid::-moz-placeholder {
+    color: #84A507 !important;
+}
+input.valid:-ms-input-placeholder {
+    color: #84A507 !important;
+}
+textarea.valid::-webkit-input-placeholder {
+    color: #84A507 !important;
+}
+textarea.valid:-moz-placeholder {
+    color: #84A507 !important;
+}
+textarea.valid::-moz-placeholder {
+    color: #84A507 !important;
+}
+textarea.valid:-ms-input-placeholder {
+    color: #84A507 !important;
+}
+
+
+.iv-layout.top-header{background-color:#1e82b6;}
+
+img.wp-smiley,
+img.emoji {
+    display: inline !important;
+    border: none !important;
+    box-shadow: none !important;
+    height: 1em !important;
+    width: 1em !important;
+    margin: 0 .07em !important;
+    vertical-align: -0.1em !important;
+    background: none !important;
+    padding: 0 !important;
+}
+.wpcf7-response-output{color:#000;}
+
+.iv-layout.title-wrapper h2 {
+    font-size: 25px !important;
+}
+.iv-layout.top-header {
+    background-color: #1e82b6 !important;
+}
+.wpb_toggle_content p:last-child {
+    margin-bottom: 0;
+}
+p {
+    -moz-hyphens: initial !important;
+    word-break: keep-all!important;
+}
+body {
+    font-size: 14px !important;
+
+}
+
+.wpcf7 form p span input[type="email"]{
+    Color:#000 !important;
+    background-Color:#fff !important;
+}
+
+.mc4wp-form-fields p input[type="email"], input[type="text"]{
+    Color:#000 !important;
+    background-Color:#fff !important;
+}
+
+.ivan-call-action .ivan-call-action-inner .call-action-btn-holder {
+    text-align: left!important;
+}
+.goog-te-gadget-simple .goog-te-menu-value span
+{
+    color:#000!important;
+}
+#google_translate_element img
+{
+    width:auto!important;
+}
+
+.goog-te-menu-value {
+    margin-left: -2px!important;
+    margin-right: 3px!important;
+}
+.goog-te-gadget-simple {
+    font-size: 98%!important;
+}
+.vc_gitem-zone-img {
+    height: 210px!important;
+
+}
+.top-header-right-area .vc_col-sm-12 {
+    padding-right:0px!important;
+    width:110%!important;
+}
+div.wpcf7-validation-errors {
+    border: 0 solid #f7e700!important;
+}
+.style2-right-menu .mega_main_menu .mega_main_menu_ul > li > .item_link {
+    padding: 12px!important;
+}
+
+.vc_custom_1470993507228{
+    background-color: #1e73be !important;
+}
+.vc_custom_1442809668897{
+    padding-top: 5px !important;
+}
+.vc_custom_1470915452650{
+    padding-top: 30px !important;
+    padding-right: 10px !important;
+    padding-bottom: 30px !important;
+    padding-left: 10px !important;
+}
+.vc_custom_1445403652263{
+    margin-top: 15px !important;
+    border-top-width: 8px !important;
+    border-right-width: 8px !important;
+    border-bottom-width: 8px !important;
+    border-left-width: 8px !important;
+    padding-top: 50px !important;
+    padding-right: 34px !important;
+    padding-bottom: 50px !important;
+    padding-left: 34px !important;
+    border-left-color: #2090cb !important;
+    border-left-style: solid !important;
+    border-right-color: #2090cb !important;
+    border-right-style: solid !important;
+    border-top-color: #2090cb !important;
+    border-top-style: solid !important;
+    border-bottom-color: #2090cb !important;
+    border-bottom-style: solid !important;
+}
+.vc_custom_1441358389306{
+    background-color: #33a9ee !important;
+}
+.vc_custom_1441187687142{
+    background-color: #303e50 !important;
+}
+.vc_custom_1441191242719{
+    background-color: #389609 !important;
+}
+.vc_custom_1441194489586{
+    padding-top: 70px !important;
+    padding-right: 50px !important;
+    padding-bottom: 10px !important;
+    padding-left: 50px !important;
+    background-color: #ffffff !important;
+}
+.vc_custom_1441194580696{
+    padding-top: 70px !important;
+    padding-right: 50px !important;
+    padding-bottom: 70px !important;
+    padding-left: 50px !important;
+    background-color: #1e73be !important;
+}
+.vc_custom_1442809668897{
+    padding-top: 5px !important;
+}
+
+.wpb_animate_when_almost_visible {
+    opacity: 1;
+}
